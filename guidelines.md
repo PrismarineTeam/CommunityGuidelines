@@ -29,7 +29,7 @@
 > :white_check_mark: 자세한 서버 가이드라인은 아래 스레드를 확인해보세요!
 
 > :link: 가이드라인 원본 링크
-https://github.com/PrismarineTeam/CommunityGuidelines
+https://github.com/PrismarineTeam/CommunityGuidelines/blob/main/guidelines.md
 ```
 
 ## 전체/세부 버전
@@ -49,6 +49,8 @@ https://github.com/PrismarineTeam/CommunityGuidelines
   - 가이드라인 원본 링크 추가
 2022. 04. 02. PM 05:18
   - 신고 채널 링크 추가
+2022. 04. 02. PM 09:45
+  - 가이드라인 원본 링크 
 \```
 
 > 제 0조: 기본
