@@ -19,3 +19,6 @@ PrismarineMC 공식 지원 디스코드에 오신것을 환영해요.
 > :exclamation: 신고는 티켓을 열어서 진행할 수 있어요.
 
 > :white_check_mark: 자세한 서버 가이드라인은 아래 스레드를 확인해보세요!
+
+> :link: 가이드라인 원본 링크
+<https://github.com/PrismarineTeam/CommunityGuidelines>
