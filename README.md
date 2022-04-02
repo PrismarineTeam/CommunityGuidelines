@@ -1,4 +1,7 @@
 # [PrismarineTeam 공식 지원 디스코드](https://discord.gg/kkqMSEVVxN) 통합 가이드라인
+
+### [혜아의 팬디코](https://discord.gg/ByHmmDSr4m) 가이드라인은 [여기서 확인할 수 있습니다.](guidelines.md)
+
 ## 요약/컴팩트 버전
 ```markdown
 > PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인
