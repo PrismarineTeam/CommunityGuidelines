@@ -24,7 +24,7 @@ PrismarineMC 공식 지원 디스코드에 오신것을 환영해요.
 > :white_check_mark: 자세한 서버 가이드라인은 아래 스레드를 확인해보세요!
 
 > :link: 가이드라인 원본 링크
-<https://github.com/PrismarineTeam/CommunityGuidelines>
+https://github.com/PrismarineTeam/CommunityGuidelines
 ```
 
 ## 전체/세부 버전
@@ -32,7 +32,7 @@ PrismarineMC 공식 지원 디스코드에 오신것을 환영해요.
 > PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인
 생성: 2022. 04. 02. PM 03:40
 시행: 2022. 04. 02. PM 05:05
-수정: 2022. 04. 02. PM 05:05
+수정: 2022. 04. 02. PM 05:17
 
 - 수정 기록
 ```markdown
@@ -40,7 +40,7 @@ PrismarineMC 공식 지원 디스코드에 오신것을 환영해요.
   - 최초 생성
 2022. 04. 02. PM 05:05
   - 시행일 수정
-2022. 04. 02. PM 05:15
+2022. 04. 02. PM 05:17
   - 가이드라인 원본 링크 
 \```
 
