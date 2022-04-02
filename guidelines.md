@@ -32,8 +32,8 @@ https://github.com/PrismarineTeam/CommunityGuidelines/blob/main/guidelines.md
 ```markdown
 > PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인 (혜아의 팬디코 전용)
 생성: 2022. 04. 02. PM 03:40
-시행: 2022. 04. 02. PM 05:05
-수정: 2022. 04. 02. PM 05:18
+시행: 2022. 04. 02. PM 10:06
+수정: 2022. 04. 02. PM 10:06
 
 - 수정 기록
 ```markdown
