@@ -5,8 +5,8 @@
 ### [PrismarineTeam 공식 지원 디스코드](https://discord.gg/kkqMSEVVxN) 통합 가이드라인은 [여기서 확인할 수 있습니다.](README.md)
 
 ## 요약/컴팩트 버전
-```markdown
-> PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인
+> PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인 (혜아의 팬디코 전용)
+
 혜아의 팬디코 디스코드에 오신것을 환영해요.
 :warning: 계정 인증을 진행하지 않으면 서버 이용이 불가능합니다. <#959685672304799754> 에서 `;verify` 를 입력해 인증을 해주시기 바랍니다.
 
@@ -26,13 +26,14 @@
 > :white_check_mark: 자세한 서버 가이드라인은 아래 스레드를 확인해보세요!
 > :link: 가이드라인 원본 링크
 https://github.com/PrismarineTeam/CommunityGuidelines/blob/main/guidelines.md
-```
 
 ## 전체/세부 버전
-```markdown
 > PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인 (혜아의 팬디코 전용)
+
 생성: 2022. 04. 02. PM 03:40
+
 시행: 2022. 04. 02. PM 10:06
+
 수정: 2022. 04. 02. PM 10:06
 
 - 수정 기록
@@ -50,8 +51,8 @@ https://github.com/PrismarineTeam/CommunityGuidelines/blob/main/guidelines.md
 2022. 04. 02. PM 10:04
   - 팬아트 관련 조항 추가
 2022. 04. 02. PM 10:06
-  - 가이드라인 이름 
-\```
+  - 가이드라인 이름 변경
+```
 
 > 제 0조: 기본
 0. 서버에 접속한 모든 유저는 본 가이드라인을 반드시 준수해야 합니다.
@@ -154,4 +155,3 @@ https://github.com/PrismarineTeam/CommunityGuidelines/blob/main/guidelines.md
 8. 다른 사람의 사생활을 존중하라.
 9. 자신의 권력을 남용하지 마라.
 10. 다른 사람의 실수를 용서하라.
-```
