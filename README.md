@@ -3,7 +3,6 @@
 ### [혜아의 팬디코](https://discord.gg/ByHmmDSr4m) 가이드라인은 [여기서 확인할 수 있습니다.](guidelines.md)
 
 ## 요약/컴팩트 버전
-```markdown
 > PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인
 PrismarineMC 공식 지원 디스코드에 오신것을 환영해요.
 
@@ -28,13 +27,14 @@ PrismarineMC 공식 지원 디스코드에 오신것을 환영해요.
 
 > :link: 가이드라인 원본 링크
 https://github.com/PrismarineTeam/CommunityGuidelines
-```
 
 ## 전체/세부 버전
-```markdown
 > PrismarineMC 공식 지원 디스코드 및 하위 디스코드 통합 가이드라인
+
 생성: 2022. 04. 02. PM 03:40
+
 시행: 2022. 04. 02. PM 05:05
+
 수정: 2022. 04. 02. PM 05:18
 
 - 수정 기록
@@ -47,7 +47,7 @@ https://github.com/PrismarineTeam/CommunityGuidelines
   - 가이드라인 원본 링크 추가
 2022. 04. 02. PM 05:18
   - 신고 채널 링크 추가
-\```
+```
 
 > 제 0조: 기본
 0. 서버에 접속한 모든 유저는 본 가이드라인을 반드시 준수해야 합니다.
@@ -134,4 +134,3 @@ https://github.com/PrismarineTeam/CommunityGuidelines
 8. 다른 사람의 사생활을 존중하라.
 9. 자신의 권력을 남용하지 마라.
 10. 다른 사람의 실수를 용서하라.
-```
